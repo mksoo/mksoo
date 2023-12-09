@@ -2,12 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=mksoo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+####  :wave: Welcome my github profile ! 
+   <br/>
+   <br/> 
+#### :pencil2: my site
+ 
+  <br/>
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://mksoo.notion.site/25cf2913e10846f2872ae866beac1e3c?pvs=4)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwangsu-mun-95681b229/)
 
-  
- <br/>
- <br/>
-  
 ####  :clipboard: Once I've Used 
   
  <br/>
@@ -17,19 +20,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-
-
-
-
- 
-   <br/>
-   <br/>
- 
-#### :pencil2: portpolio
- 
-  <br/>
-  
-![](https://mksoo.notion.site/25cf2913e10846f2872ae866beac1e3c?pvs=4)
 </div>
 
 <!--
