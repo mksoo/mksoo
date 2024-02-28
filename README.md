@@ -1,8 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f9bf52&height=150&section=header&text=Welcome_to_mksoo's_profile!&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
-####  :wave: 
+![header](https://capsule-render.vercel.app/api?type=waving&color=f9bf52&height=150&section=header&color=auto&text=Welcome_to_mksoo's_profile!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 </div>
 <div>
